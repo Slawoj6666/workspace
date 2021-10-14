@@ -1,0 +1,39 @@
+{
+  "group": "evil_spy_ware",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "2": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "3": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "4": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "5": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "6": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "7": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "8": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    }
+  },
+  "result": {
+    "item": "evil_spy_ware:unobtaniumarmor_chestplate",
+    "count": 1
+  }
+}

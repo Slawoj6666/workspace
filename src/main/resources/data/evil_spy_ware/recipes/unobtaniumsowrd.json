@@ -1,0 +1,19 @@
+{
+  "group": "evil_spy_ware",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "evil_spy_ware:unobtaniumsword",
+    "count": 1
+  }
+}

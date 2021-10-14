@@ -1,0 +1,30 @@
+{
+  "group": "evil_spy_ware",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "1": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "2": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "evil_spy_ware:unobtaniumpickaxe",
+    "count": 1
+  }
+}

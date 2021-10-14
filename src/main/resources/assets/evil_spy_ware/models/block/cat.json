@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "evil_spy_ware:blocks/cat",
+    "up": "evil_spy_ware:blocks/cat",
+    "north": "evil_spy_ware:blocks/cat",
+    "east": "evil_spy_ware:blocks/cat",
+    "south": "evil_spy_ware:blocks/cat",
+    "west": "evil_spy_ware:blocks/cat",
+    "particle": "evil_spy_ware:blocks/cat"
+  }
+}

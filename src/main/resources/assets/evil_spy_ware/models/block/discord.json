@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "up": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "north": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "east": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "south": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "west": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com",
+    "particle": "evil_spy_ware:blocks/discord-icon-new-2021-logo-09772bf096-seeklogo.com"
+  }
+}

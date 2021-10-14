@@ -1,0 +1,10 @@
+{
+  "group": "evil_spy_ware",
+  "type": "minecraft:smelting",
+  "experience": 100,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "evil_spy_ware:unobtanium_ore_block"
+  },
+  "result": "evil_spy_ware:unobtanium_ingots"
+}

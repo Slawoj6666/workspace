@@ -1,0 +1,16 @@
+{
+  "group": "evil_spy_ware",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    }
+  },
+  "result": {
+    "item": "evil_spy_ware:bullet",
+    "count": 22
+  }
+}

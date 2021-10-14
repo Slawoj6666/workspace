@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "evil_spy_ware:unobtanium_ingots"
+    },
+    "title": {
+      "translate": "advancements.obtaniununobtanium.title"
+    },
+    "description": {
+      "translate": "advancements.obtaniununobtanium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "obtaniununobtanium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "evil_spy_ware:unobtanium_ingots",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:story/mine_diamond"
+}
